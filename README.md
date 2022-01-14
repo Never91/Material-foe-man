@@ -6,6 +6,8 @@ https://python-course.readthedocs.io/projects/year2/en/latest/lessons/06-sockets
 https://uk.wikipedia.org/wiki/IP-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0
 https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1jhj/377fe930a32ea416ed3205fdc06a8888/python-socket-connection-diagram.png
 https://habr.com/ru/post/149077/
+https://pyneng.readthedocs.io/ru/latest/book/19_concurrent_connections/concurrent_futures.html
+https://www.digitalocean.com/community/tutorials/how-to-use-threadpoolexecutor-in-python-3-ru
 
 
 
