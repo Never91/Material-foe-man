@@ -8,6 +8,8 @@ https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1jhj/377fe930a32ea416
 https://habr.com/ru/post/149077/
 https://pyneng.readthedocs.io/ru/latest/book/19_concurrent_connections/concurrent_futures.html
 https://www.digitalocean.com/community/tutorials/how-to-use-threadpoolexecutor-in-python-3-ru
+https://pysimplegui.readthedocs.io/en/latest/
+https://pysimplegui.readthedocs.io/en/latest/cookbook/
 
 
 
