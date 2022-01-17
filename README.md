@@ -11,6 +11,7 @@ https://www.digitalocean.com/community/tutorials/how-to-use-threadpoolexecutor-i
 https://pysimplegui.readthedocs.io/en/latest/
 https://pysimplegui.readthedocs.io/en/latest/cookbook/
 https://ua-referat.com/%D0%9C%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%B2%D1%96_%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%80%D0%B8_%D1%82%D0%B0_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7
+https://coderlessons.com/tutorials/python-technologies/izuchite-python-3/python-3-setevoe-programmirovanie
 
 
 
